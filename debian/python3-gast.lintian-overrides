@@ -1,0 +1,4 @@
+python3-gast: copyright-without-copyright-notice
+python3-gast: initial-upload-closes-no-bugs
+python3-gast: no-manual-page
+python3-gast: zero-byte-file-in-doc-directory

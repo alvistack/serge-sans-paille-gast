@@ -1,0 +1,5 @@
+python-gast source: file-without-copyright-information
+python-gast source: no-debian-changes
+python-gast source: source-contains-prebuilt-windows-binary
+python-gast source: source-is-missing
+python-gast source: source-package-encodes-python-version
